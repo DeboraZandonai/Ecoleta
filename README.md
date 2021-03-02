@@ -1,95 +1,69 @@
-<div align="center">
-<img src="https://github.com/gibifyOfficial/Ecoleta-Booster--01/blob/master/server/public/assets/Capa.png" />
-</div>
+<h1 align="center">🚀 Ecoleta Booster 🚀</h1>
 
-  # Sobre:
-  Ecoleta, é uma plataforma web para conectar pontos à pessoas ou empresas de coletas de resíduos, estes podem fazer a coleta de resíduos com eficiência e conciência ao meio ambiente. Os usuários podem pesquisar os pontos maís próximos de sua localidade. Os pontos de coletas porerão fazer o cadastro na plataforma, informando sua localização e tipos de items que recolhem.
-  
-  
- Este projeto foi desenvolvido durante a Next Level Week [Rocketseat](https://rocketseat.com.br/).
+![Badge](/Github/logo.png)
 
- ### Arquivos:
-* [server](https://github.com/gibify/Ecoleta-Booster/tree/master/server)
-* [web](https://github.com/gibify/Ecoleta-Booster/tree/master/web)
+## 💻 Proposta do projeto
 
+Ecoleta é uma aplicação cujo objetivo é ajudar pessoas a encontrarem pontos de coleta de forma eficiente.
 
- ### Layout:
- 
- * [Web](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-(Booster)?node-id=0%3A1)
- 
- 
- 
- # Requisitos:
+<h2 align=center>
+  ⭐ Prévia do projeto
+</h2>
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-* [Git](https://git-scm.com) 
-* [Node](https://nodejs.org/en/) 
-* [VSCode](https://code.visualstudio.com/)
+![Badge](/Github/web.gif)
 
+<h2>
+  👨‍💻 Tecnologias utilizadas
+</h2>
 
- #### Clonando repositório:
+<ul>
+  <li><h3><a href="https://reactjs.org/">ReactJS</a></h3></li>
+  <li><h3><a href="https://www.typescriptlang.org/">Typescript</a></h3></li>
+  <li><h3><a href="https://styled-components.com/">Styled-components</a></h3></li>
+  <li><h3><a href="https://github.com/axios/axios">Axios</a></h3></li>
+</ul>
 
-```bash
-# clone o repositório na sua máquina
-$ git clone https://github.com/gibify/Ecoleta-Booster
-```
+<h2>
+  🔍 Requisitos de software
+</h2>
 
- #### ⚙️ Rodando o Servidor (Backend) 
+<ul>
+  <li><h3><a href="https://nodejs.org/pt-br/">NodeJS</a></h3></li>
+  <li><h3><a href="https://yarnpkg.com/">Yarn</a></h3></li>
+</ul>
 
-```bash
-# Acesse a pasta server
-$ cd server
+<em>Lembre-se de realizar o mesmo procedimento da pasta server, para ter o backend rodando conjuntamente.</em>
 
-# Instale as dependências
-$ npm install
+**Obs: Isso só precisa ser realizado apenas uma vez para todos.**
 
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server 
-
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333> 
-```
-
-
-#### 🖥️ Rodando a aplicação Web (Frontend) 
+### Clone o repositório para ter uma cópia do código em sua máquina
 
 ```bash
-# Acesse a pasta web
-$ cd web
-
-# Instale as dependências
-$ npm install 
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run start 
-
-# O web inciará na porta:3000 - acesse <http://localhost:3000>
+$ git clone https://github.com/DeboraZandonai/Ecoleta.git
 ```
 
- # 🛠 Tecnologias usadas no projeto:
- 
-## Server  
-[![](https://github.com/gibify/Proffy/blob/master/Web/public/node%201.png)](https://nodejs.org/en/)   [![](https://github.com/gibify/Proffy/blob/master/Web/public/typescript%201.png)](https://www.typescriptlang.org/)
+### Navegue até a pasta do projeto web
 
--   **[Express](https://expressjs.com/)**
--   **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
--   **[KnexJS](http://knexjs.org/)**
--   **[SQLite](https://github.com/mapbox/node-sqlite3)**
--   **[ts-node-dev](https://github.com/TypeStrong/ts-node)**
+```bash
+$ cd Ecoleta/web
+```
 
-> Acesse o arquivo  [package.json](https://github.com/gibify/Ecoleta-Booster/blob/master/server/package.json)
+### Carregue as dependências
 
+```bash
+$ yarn
+```
 
-## Web
-[![](https://github.com/gibify/Proffy/blob/master/Web/public/reactjs%201.png)](https://reactjs.org/)    [![](https://github.com/gibify/Proffy/blob/master/Web/public/typescript%201.png)](https://www.typescriptlang.org/)
+# Rode o projeto
 
--   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
--   **[Axios](https://www.npmjs.com/package/axios)**
+```bash
+$ yarn start
+```
 
-> Acesse o arquivo  [package.json](https://github.com/gibify/Ecoleta-Booster/blob/master/web/package.json)
+## 📝 Licença
 
+Este projeto encontra-se sob a licença **MIT**. Para mais informações, acesse o arquivo **LICENSE**.
 
-### Autor
+<br />
 
-![](https://github.com/gibify/Proffy/blob/master/Web/20200730_094509%5B1%5D%201.png)
-## [Evandro Gibicoski](https://github.com/gibify)
-
+<h4 align=center>Made with ❤️ by <a href="https://www.linkedin.com/in/debora-zandonai-4ab092195/">Debora Zandonai</a></h4>
