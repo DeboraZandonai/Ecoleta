@@ -2,18 +2,18 @@
 
 ![Badge](/Github/logo.png)
 
-## 💻 Proposta do projeto
+## 💻 Project proposal
 
-Ecoleta é uma aplicação cujo objetivo é ajudar pessoas a encontrarem pontos de coleta de forma eficiente.
+Ecoleta is an application that aims to help people find collection points efficiently.
 
 <h2 align=center>
-  ⭐ Prévia do projeto
+  ⭐ Project preview
 </h2>
 
 ![Badge](/Github/web.gif)
 
 <h2>
-  👨‍💻 Tecnologias utilizadas
+  👨‍💻 Technologies used
 </h2>
 
 <ul>
@@ -24,7 +24,7 @@ Ecoleta é uma aplicação cujo objetivo é ajudar pessoas a encontrarem pontos 
 </ul>
 
 <h2>
-  🔍 Requisitos de software
+  🔍 Software requirements
 </h2>
 
 <ul>
@@ -32,38 +32,36 @@ Ecoleta é uma aplicação cujo objetivo é ajudar pessoas a encontrarem pontos 
   <li><h3><a href="https://yarnpkg.com/">Yarn</a></h3></li>
 </ul>
 
-<em>Lembre-se de realizar o mesmo procedimento da pasta server, para ter o backend rodando conjuntamente.</em>
+<em>Remember to perform the same procedure as the server folder, to have the backend running together.</em>
 
-**Obs: Isso só precisa ser realizado apenas uma vez para todos.**
+**Note: This only needs to be done once for everyone.**
 
-### Clone o repositório para ter uma cópia do código em sua máquina
+### Clone the repository to have a copy of the code on your machine
 
 ```bash
 $ git clone https://github.com/DeboraZandonai/Ecoleta.git
 ```
 
-### Navegue até a pasta do projeto web
+### Navigate to the web project folder
 
 ```bash
 $ cd Ecoleta/web
 ```
 
-### Carregue as dependências
+### Load dependencies
 
 ```bash
 $ yarn
 ```
 
-# Rode o projeto
+# Run the project
 
 ```bash
 $ yarn start
 ```
 
-## 📝 Licença
+## 📝 License
 
-Este projeto encontra-se sob a licença **MIT**. Para mais informações, acesse o arquivo **LICENSE**.
-
-<br />
+This project is under the **MIT** license. For more information, access the file **LICENSE**.
 
 <h4 align=center>Made with ❤️ by <a href="https://www.linkedin.com/in/debora-zandonai-4ab092195/">Debora Zandonai</a></h4>
